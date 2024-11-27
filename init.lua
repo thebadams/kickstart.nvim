@@ -65,7 +65,6 @@ require('lazy').setup({
 
   -- LSP Plugins
 
-  { 'Bilal2453/luvit-meta', lazy = true },
   {
     -- Main LSP Configuration
     'neovim/nvim-lspconfig',
